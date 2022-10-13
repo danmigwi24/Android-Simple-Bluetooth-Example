@@ -38,6 +38,51 @@
             <set />
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/../dfm-app-template/common/src/main/res/values/strings.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../dfm-app-template/home/src/main/java/com/daniel/dkm/home/ui/bixlonprinter/BlueToothConnectionFragment.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../dfm-app-template/home/src/main/java/com/daniel/dkm/home/ui/bixlonprinter/ConnectedThread.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../dfm-app-template/home/src/main/res/layout/fragment_bluetooth_connection.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../etourism-app-template/app/src/main/AndroidManifest.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../etourism-app-template/app/src/main/java/com/ekenya/rnd/baseapp/ui/SpalshActivity.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../etourism-app-template/home/src/main/AndroidManifest.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../etourism-app-template/home/src/main/java/com/ekenya/rnd/home/MainActivity.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../etourism-app-template/home/src/main/java/com/ekenya/rnd/home/ui/home/HomeFragment.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="$USER_HOME$/StudioProjects/cargill-app-dynamic-features/app/src/main/java/com/ekenya/rnd/baseapp/ui/bixolon/bluetooth/BlueToothConnectedThread.kt">
           <value>
             <set />

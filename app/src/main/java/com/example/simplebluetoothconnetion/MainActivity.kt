@@ -195,6 +195,7 @@ class MainActivity : AppCompatActivity() {
         } catch (e: Exception) {
             Log.e("TAG", "Could not create Insecure RFComm Connection", e)
         }
+
         return device.createRfcommSocketToServiceRecord(BT_MODULE_UUID)
     }
 }
